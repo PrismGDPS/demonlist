@@ -1,11 +1,11 @@
 {
-	"id": 206,
-	"name": "Girl A Toxin",
-	"author": "[MPC] ZymplexGMD",
+	"id": 226,
+	"name": "Slaughten",
+	"author": "[MPC] Benjamin",
 	"creators": [],
 	"verifier": "[MPC] ZymplexGMD",
 	"verification": "https://www.youtube.com/watch?v=Uky3BixaaDc",
-	"percentToQualify": 45,
+	"percentToQualify": 39,
 	"password": "Free Copy",
 	"records": [
 		{
@@ -496,4 +496,4 @@
 			"hz": 360
 		}
 	]
-    }
+}
