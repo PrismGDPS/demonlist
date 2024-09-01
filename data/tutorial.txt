@@ -1,0 +1,19 @@
+ChangeLog:
+Actions are only placed, raised, removed, lowered, tolegacy.
+Also for date use: unix timestamp. https://www.unixtimestamp.com/
+If level has been created than in "from rank": write null after.
+If level has been raised up than in "from rank": previous rank. and in "to_rank": new rank where it has been placed.
+And if level has been lowered than do steps like with raising level. but in reverse.
+"From rank": previous rank.
+And "to_rank" new rank. (needs to be lower)
+Tolegancy: (NO INFO)
+Also here is a example how does every tutorial:
+	{
+		"date": 1722398057,
+		"action": "placed",
+		"name": "brain_power",
+		"to_rank": 768,
+		"from_rank": null,
+		"above": "pound_town",
+		"below": "zenith"
+	},
