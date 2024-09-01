@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Iron Tier",
+        "color": "linear-gradient(31deg, rgba(124,124,124,1) 0%, rgba(251,251,251,1) 50%, rgba(124,124,124,1) 100%)",
+        "packs": [
+            "Lemons Pack"
+        ]
+    },
+    {
+        "name": "Gold Tier",
+        "color": "linear-gradient(31deg, rgba(255,188,0,1) 0%, rgba(255,244,0,1) 50%, rgba(255,188,0,1) 100%)",
+        "packs": [
+            "Fast Pack"
+        ]
+    }
+]
