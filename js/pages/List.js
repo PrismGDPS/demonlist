@@ -118,7 +118,7 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        Join our discord server, and  use /record submit
+                        Go into the [record submission website](https://prismized.ps.fhgdps.com/records), and then go from there.
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
