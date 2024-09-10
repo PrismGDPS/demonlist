@@ -118,7 +118,7 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        Go into the <a href="https://prismized.ps.fhgdps.com/records">record submission website</a>, and then go from there.
+                        Go into the <a href="https://prismized.ps.fhgdps.com/records">record submission website (click here to get redirected</a>, and then go from there.
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
