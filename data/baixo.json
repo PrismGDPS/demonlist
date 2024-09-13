@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/bX8KbWCypQ4?si=_fEQ000UGpnS2l6g",
 	"percentToQualify": 26,
 	"password": "Free Copy",
-    "records": []
+        "records": [
+		{
+		 "user": "[MPC] Benjamin",
+		 "link": "https://youtu.be/SQBS87LOpCY?si=I5b65zAvdaWbpeq8",
+		 "percent": 100,
+		 "hz": 60
+		}
+	]
 }
