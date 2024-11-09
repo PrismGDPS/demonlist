@@ -118,7 +118,7 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        Go into the GDPS discord server, then run the command /record submit and fill out everything.
+                        remind me to edit this as soon as the demonlist gets released. thanks
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
