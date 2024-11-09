@@ -118,7 +118,7 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        remind me to edit this as soon as the demonlist gets released. thanks
+                        First, get the "List Ping" role in the "Channels & Roles" tab. Now, go to the #submissions channel and submit your record.
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
