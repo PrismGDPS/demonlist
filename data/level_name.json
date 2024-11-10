@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/75NF3KnqQ0w?si=CUCrndQjRlq9Yn6t",
 	"percentToQualify": 70,
 	"password": "Free Copy",
-        "records": []
+        "records": [
+		{
+			"user": "[BIZ] Zone",
+			"link": "https://drive.google.com/file/d/1h3rjyLVxRogfvesh9IOyzbJ1iaIBBwJa/view?usp=sharing",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
