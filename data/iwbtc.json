@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/vqdAZ6rmlyw?si=nDyD8Xe1WF7EXZJR",
 	"percentToQualify": 70,
 	"password": "Free Copy",
-        "records": []
+        "records": [
+		{
+		  "user": "Samity",
+		  "link": "",
+		  "percent": 100,
+		  "hz": "-"
+		}
+	]
 }
