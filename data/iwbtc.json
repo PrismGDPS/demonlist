@@ -9,10 +9,16 @@
 	"password": "Free Copy",
         "records": [
 		{
-		  "user": "Samity",
-		  "link": "",
-		  "percent": 100,
-		  "hz": ""
+		        "user": "Samity",
+		        "link": "",
+		        "percent": 100,
+		        "hz": ""
+		},
+		{
+		        "user": "YeahhColix",
+		        "link": "",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
